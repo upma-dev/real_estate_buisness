@@ -1,0 +1,6 @@
+{
+  "name": "Shree Maa Property and Construction",
+  "description": "Premium interactive real estate and construction platform in Ujjain featuring high-end property showcase, custom filters, direct WhatsApp booking, and AI-powered recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
